@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1456337643 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/main.cpp
+	<iostream>
+	"Compiler.h"
+	"Console/Console.h"
+
+1456328864 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Compiler.h
+	"Analysis/analysis.h"
+
+1456253745 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/analysis/analysis.h
+	"Lex.h"
+
+1456257129 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/analysis/Lex.h
+	<iostream>
+	<vector>
+	"Const.h"
+	"token.h"
+
+1456252271 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/analysis/Const.h
+
+1456252667 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/analysis/token.h
+	<string>
+	"Const.h"
+
+1456328189 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/source/analysis/analysis.cpp
+	<iostream>
+	"../../include/analysis/analysis.h"
+
+1456328199 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/source/analysis/Lex.cpp
+	<fstream>
+	"../../include/analysis/Lex.h"
+
+1456253745 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Analysis/analysis.h
+	"Lex.h"
+
+1456336207 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Analysis/Lex.h
+	<iostream>
+	<vector>
+	"Const.h"
+	"token.h"
+
+1456334688 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Analysis/Const.h
+
+1456331437 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Analysis/token.h
+	<iostream>
+	"Const.h"
+	"Console/Console.h"
+
+1456328874 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/src/Analysis/analysis.cpp
+	<iostream>
+	"Analysis/analysis.h"
+
+1456337963 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/src/Analysis/Lex.cpp
+	<fstream>
+	"Analysis/Lex.h"
+	"Console/Console.h"
+
+1456338078 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/src/Analysis/token.cpp
+	<iostream>
+	"Analysis/token.h"
+
+1456329475 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/src/Compiler.cpp
+	"Compiler.h"
+
+1456329569 source:/home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/src/Console/Console.cpp
+	"Console/Console.h"
+
+1456329684 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Console/Console.h
+	<iostream>
+
+1456331273 /home/user/Cloud/Учебные материалы/2 курс/2 симестр/Системное ПО/Компилятор/Compiler/include/Global/Globals.h
+	"Console/Console.h"
+
